@@ -19,7 +19,8 @@ Depois você da start no seu bot
 > npm start
 ```
 
-
+     
+BOT BY                             KAKAJOKER
 | :-----------: | :--------------------------------: |
 |       ✅       | Send Photo with Caption          |
 |       ✅       | Reply A Photo                    |
