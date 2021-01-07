@@ -21,7 +21,7 @@ Depois você da start no seu bot
 
      
 BOT BY                             KAKAJOKER
-| :-----------: | :--------------------------------: |
+
 |       ✅       | Send Photo with Caption          |
 |       ✅       | Reply A Photo                    |
 |       ✅       | Reply A Video or GIF             |
